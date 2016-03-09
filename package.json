@@ -1,0 +1,24 @@
+{
+  "name": "sc2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CWShelly/SC2.git"
+  },
+  "author": "s yusuf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CWShelly/SC2/issues"
+  },
+  "homepage": "https://github.com/CWShelly/SC2#readme",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "express-request-proxy": "^2.0.0"
+  }
+}
